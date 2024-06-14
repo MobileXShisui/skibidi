@@ -6,9 +6,9 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-const token = "";
-const clientId = "";
-const botstatus = "";
+const token = "MXhXguIHxZRA7GXTqip6c21Qht_4euXzcMQsNvUTEwMjE2Mjg5MjE4ODU1MzIyNw.GCd0L7.";
+const clientId = "1102162892188553227";
+const botstatus = "Listen A Spotifys";
 const madeby = "";
 const endpoint = "http://45.90.13.151:6041"
 
